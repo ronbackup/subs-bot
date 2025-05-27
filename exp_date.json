@@ -1,0 +1,14 @@
+[
+    {
+        "branch": "TANGERANG",
+        "exp_dom_inbound_e2e_ronaldsianypar": "2025-06-30",
+        "exp_intracity_e2e_ronaldsianypar": "2025-06-30",
+        "exp_sca_ronaldsianypar": "2025-06-30"
+    },
+    {
+        "branch": "DEPOK",
+        "exp_dom_inbound_e2e_ronaldsianypar": "lifetime",
+        "exp_intracity_e2e_ronaldsianypar": "lifetime",
+        "exp_sca_ronaldsianypar": "lifetime"
+    }
+]
