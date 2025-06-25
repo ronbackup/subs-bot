@@ -3,12 +3,14 @@
         "branch": "TANGERANG 1",
         "exp_dom_inbound_e2e_ronaldsianypar": "2025-05-27",
         "exp_intracity_e2e_ronaldsianypar": "2025-05-26",
-        "exp_sca_ronaldsianypar": "2025-05-28"
+        "exp_sca_ronaldsianypar": "2025-05-28",
+        "exp_sca_tomorrow_ronaldsianypar": "2025-05-28"
     },
     {
         "branch": "TANGERANG",
         "exp_dom_inbound_e2e_ronaldsianypar": "lifetime",
         "exp_intracity_e2e_ronaldsianypar": "lifetime",
-        "exp_sca_ronaldsianypar": "lifetime"
+        "exp_sca_ronaldsianypar": "lifetime",
+        "exp_sca_tomorrow_ronaldsianypar": "lifetime"
     }
 ]
